@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "97339382017",
+    "firebase_url": "https://rawdaelmuslim.firebaseio.com",
+    "project_id": "rawdaelmuslim",
+    "storage_bucket": "rawdaelmuslim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97339382017:android:0e478c7451389f978ca300",
+        "android_client_info": {
+          "package_name": "com.ahmed.rawdaelmuslim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97339382017-me9ovtk6rn54qtlkciug71ddbdpafm6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-WJNKyB9dVC8NSbKRNFy4j9DkZaROoHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97339382017-me9ovtk6rn54qtlkciug71ddbdpafm6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8468747276972837~9165818705"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97339382017:android:7f253d91a1dba2438ca300",
+        "android_client_info": {
+          "package_name": "com.ahmed.rudaelmoslem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97339382017-me9ovtk6rn54qtlkciug71ddbdpafm6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-WJNKyB9dVC8NSbKRNFy4j9DkZaROoHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97339382017-me9ovtk6rn54qtlkciug71ddbdpafm6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,228 @@
+{
+    "onefirst": {
+        "page1":{
+            "title": "Select your location",
+            "body": "Keep GPS on until the app can detect your current location.",
+            "text1": "Set the location. You can change the location at any time by clicking on the location icon in the upper right corner.",
+            "text2": "location",
+            "ulocation": "your location",
+            "setlocation": "set this location",
+            "loading": "Loading . .",
+            "done": "The site has been updated",
+            "error":{
+                "title":"Error",
+                "ucheck": "check",
+                "internet": "an internet connection",
+                "or": "or ",
+                "service": "location services.",
+                "setting": "Open the site settings.",
+                "unexpected": "an unexpected error occurred"
+            }
+        },
+        "page2":{
+            "title": "Put your favorite theme",
+            "text1":"system appearance",
+            "text2":"Light Appearance",
+            "text3":"Dark Appearance",
+            "text4":"On supported device only"
+        },
+        "page3":{
+            "title":"Select Media Preferences",
+            "text1":"default notification sound",
+            "text2":"Azan alert [new]",
+            "text3":""
+        },
+        "page4":{
+            "title":"Praise be to God. Settings are set",
+            "text1":"Welcome to the app. Explore other features and tweak other settings as well."
+        }
+
+
+    },
+    "startscreen":{
+        "titleApp_string": "The Muslim Kindergarten",
+        "infoApp": "The design of the Muslim Kindergarten application is a comprehensive application characterized by ease of use and features that make for an enjoyable reading",
+        "buttonTitle": "start"
+    },
+    "homepage":{
+        "title": "today",
+        "mute": "silent",
+        "Dhuhr": "Duher",
+        "Asr": "Asr",
+        "Maghrib": "Maghrib",
+        "Imsak": "constipation",
+        "Fajer": "Fajr",
+        "Sunrise": "Sunrise",
+        "Isha": "Isha",
+        "nextslahtime": "{hours} an hour and {minutes} remaining until prayer",
+        "appname":{
+            "moshaf": "the Qur'an",
+            "sbha": "rosary",
+            "slahtime": "prayer times",
+            "zkar": "Remembrances",
+            "saly": "Pray",
+            "busla":"compass",
+            "info":"About",
+            "setting": "settings"
+        },
+        "lastread":{
+            "last": "last reading",
+            "suhraname":"{name}",
+            "pagenum":"{num}",
+            "goto": "go to"
+        }
+    },
+    "quran":{
+        "minu":{
+            "fhras": "index",
+            "hafz":"save tag",
+            "goto":" go to tag"
+        }
+    },
+    "rosar":{
+        "dailog":{
+            "item0":" is said {num} once",
+            "item1":" Glory be to God and praise be to Him, Glory be to God the Great.",
+            "item2":" 'Praise be to God'",
+            "item3": "I ask forgiveness from God the Great",
+            "item4": "God is Greatest"
+        }
+    },
+    "azkar":{
+        "title":"Remembrances for a Muslim",
+        "item":{
+            "item0":" is said {num} once",
+            "sbah":"",
+            "msaa":"",
+            "slah":""
+        }
+    },
+    "qiblah":{
+        "title":"Qibla direction"
+    },
+    "appinfo":{
+        "title":"About the application",
+        "content": "The design of the Muslim Kindergarten application is an application that includes everything related to the Muslim from the holy readers, the morning and evening remembrances, the times of prayers and other features, and the application is characterized by ease of use.",
+        "ringInfo":" Please submit any complaint about the application and rate the application."
+        
+    },
+    "prayetime":{
+        "title": "today",
+        "pray":{
+            "dhuhr": "Duher",
+            "asr": "Asr",
+            "maghrib": "Maghrib",
+            "imsak": "constipation",
+            "fajer": "Fajr",
+            "sunrise": "sunrise",
+            "isha": "Isha"
+            
+        
+        },
+        "setting":{
+            "title": "Settings",
+            "department": {
+                "item1":{
+                    "title": "display",
+                    "contant":{
+                        "title1": "time format"
+                    }
+                },
+                "item2":{
+                    "title": "Azan",
+                    "contant":{
+                        "title":"Azan settings",
+                        "title2":"the sound of the call to prayer",
+                        "settingsound":{
+                            "item1":""
+                        }
+                    }
+                },
+                "item3":{
+                    "title": "notices",
+                    "contant":{
+                        "title":"Notification Settings",
+                        "settingsound":{
+                            "sound1": "default notification sound",
+                            "sound2":"Azan alert [new]",
+                            "detected": "Changes have been detected",
+                           " restartapp": "apply and restart the application"
+                        },
+                        "systemsetting":{
+                            "appnotification":"App notification system setup",
+                            "ditil": "Customize the sound, switch the prayer notification channel, etc.",
+                            "troubleshooting": "Troubleshooting",
+                            "fix1":"Notification not showing on some devices",
+                            "fix2":"Example: Xiaomi / Redmi, Realme etc.",
+                            "advtroubleshooting": "Advanced Troubleshooting",
+                            "Limit": "limit notification scheduling",
+                            "experiencing": "Enable if you experience severe app slowdowns. You will be notified to schedule a weekly basis. Default is off (monthly).",
+                            "Force":"Forcing rescheduling notice...",
+                            "rescheduled": "By default, the notification will not be rescheduled if the last scheduler ran is less than 2 days away. Click Continue to start scheduling an instant notification. The application will restart.",
+                            "proceed": "Proceed",
+                            "cancel":"Cancel",
+                            "installed":{
+                                "text1":"Some apps installed from the ",
+                                "text2":"Google Play Store ",
+                                "text3":"will disable ",
+                                "text4":"Autostart ",
+                                "text5":"by default. Due to this behaviour, prayer notification (sometimes) will not appear on your phone. ",
+                                "text6":"The solution is to enable ",
+                                "text7":"Autostart ",
+                                "text8":"for this app. Tap the button below to open App Setting, then find the Autostart option there to enable it.",
+                                "text9":"Open App Setting",
+                                "text10":"Related Article:",
+                                "text11":"Notification didn\\'t show on some devices",
+                                "text12":"Some apps installed from the "
+                            }
+                        }
+                    }
+                }
+                
+            }
+        }
+        
+    },
+    "salyapp":{
+        "page1":{
+            "title": "repeat reminder",
+            "detil": "Choose a time convenient for you to repeat the reminder",
+            "timeType":{
+                "0": "minutes",
+                "1": "minute",
+                "2": "hours",
+                "3":" hours"
+            }
+        },
+        "page2":{
+            "title": "reminder sound",
+            "detil": "choose the appropriate sound for you to remember",
+            "soundName":{
+                "0": "Oh God, bless Muhammad and the family of Muhammad.",
+                "1": "Pray for him",
+                "2":"Pray for him and give him peace.",
+                "3": "Pray for him",
+                "4": "Peace be upon Muhammad",
+                "5": "Pray for him"
+            }
+        },
+        "page3":{
+            "title": "settings are set",
+            "detil": "You can reset the settings at any time"
+        }
+    },
+    "setting":{
+        "title": "Settings",
+        "index":{
+            "item1":{
+                "title":"",
+                "title2":"Put your favorite theme",
+                "text1":"system appearance",
+                "text2":"Light Appearance",
+                "text3":"Dark Appearance",
+                "text4":"On supported device only"
+            }
+        }
+    }
+
+}

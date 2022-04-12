@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Azkar for Morning",
+        "titleAr": "أذكار الصباح",
+        "filename": "azkar_sabah",
+        "srcImage": "assets/svg/002-islamic.svg"
+
+    },
+    {
+        "title": "Azkar for Evening",
+        "titleAr": "أذكار المساء",
+        "filename": "azkar_massa",
+        "srcImage": "assets/svg/008-lantern.svg"
+        
+    },
+    {
+        "title": "Azkar for Prayer",
+        "titleAr": "اذكار بعد الصلاه",
+        "filename": "postPrayer_azkar",
+        "srcImage": "assets/svg/004-carpet.svg"
+        
+    }
+]
